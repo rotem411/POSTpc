@@ -13,6 +13,7 @@ import java.util.Date;
 
 import static android.R.attr.id;
 
+
 public class MainActivity extends AppCompatActivity {
     String inputTextString = "";
     KeyListener listen;
